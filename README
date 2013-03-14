@@ -1,0 +1,12 @@
+Scrabble Cheater helps you cheat at Scrabble by calculating all of the
+possible words you can make with your rack, and their Scrabble values
+for.
+
+Run the cheater like this:
+
+python scrabble_cheater.py ABCDEF
+
+TODO:
+
+* support blank titles
+* account for the special squares on the Scrabble board
